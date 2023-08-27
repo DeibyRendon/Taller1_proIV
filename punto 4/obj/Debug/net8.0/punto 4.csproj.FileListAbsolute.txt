@@ -1,0 +1,14 @@
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\bin\Debug\net8.0\punto 4.exe
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\bin\Debug\net8.0\punto 4.deps.json
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\bin\Debug\net8.0\punto 4.runtimeconfig.json
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\bin\Debug\net8.0\punto 4.dll
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\bin\Debug\net8.0\punto 4.pdb
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\punto 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\punto 4.AssemblyInfoInputs.cache
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\punto 4.AssemblyInfo.cs
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\punto 4.csproj.CoreCompileInputs.cache
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\punto 4.dll
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\refint\punto 4.dll
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\punto 4.pdb
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\punto 4.genruntimeconfig.cache
+C:\Users\deibyrh\Desktop\programacion IV\taller 1\punto 4\obj\Debug\net8.0\ref\punto 4.dll
